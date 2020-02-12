@@ -14,7 +14,7 @@ The aim of this project is to apply our database knowledge in a practical and ef
 *	XAMPP Server (phpMyAdmin)
 
 #### ER DIAGRAM
-[Image of Yaktocat](ER_Diagram.jpg)
+[Link to ER Diagram](ER_Diagram.jpg)
 
 #### APPLICATIONS
 *	Employee and Manager login for different branches. 
